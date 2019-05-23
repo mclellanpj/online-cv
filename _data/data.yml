@@ -18,11 +18,11 @@ sidebar:
     linkedin: www.linkedin.com/in/peter-mclellan1974
     github: 
     gitlab:
-    bitbucket:
-    twitter: '=
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    #bitbucket:
+    #twitter: '=
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
